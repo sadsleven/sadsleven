@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hola 👋
 
+Mi nombre es Abrahams Marcano, soy un programador web enfocado al area de Front-End usando los frameworks javascript llamados Vue, Nuxt y React. 
+
+Cada dia aprendiendo mas y refinando mis habilidades como programador.
+
+Como encontrarme:
+
+Linkedin: www.linkedin.com/in/abrahamsmarcano
+Correo electronico: abraham23ob99@gmail.com
 <!--
 **sadsleven/sadsleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
