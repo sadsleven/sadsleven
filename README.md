@@ -7,9 +7,8 @@ Full Stack Developer
 Full Web Stack Developer - Mobile developer with Quasar - App developer with Electron
 
 * 🌍  I'm based in Venezuela
-* 🖥️  See my portfolio at [My portfolio](https://github.com/sadsleven)
 * ✉️  You can contact me at [abraham23ob99@gmail.com](mailto:abraham23ob99@gmail.com)
-* 🧠  I'm learning Three js, Angular, Astro, Nest js
+* 🧠  I'm learning Three js, Angular, Astro
 * 🤝  I'm open to collaborating on Fun projects
 * ⚡  I can make everything you want in front end
 
